@@ -47,6 +47,7 @@ class Spider:
                     print("Error: 下载失败",str(e))
                 # finally:
                 #     f.close()
+                # 测试修改
 
 
 #显示下载速度
